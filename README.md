@@ -2,7 +2,7 @@
 
 **Olá esse é o meu gitHub!⚡**
 
-SOBRE MIM👯
+👨‍💻SOBRE MIM👨‍💻
 - Estudante de Análise e desenvolvimento de sistema na UNICEUB
 - Tenho 19 anos
 - Sonho em ser engenheiro de software/desenvolvedor
