@@ -1,12 +1,11 @@
-## Me chamo Isac Braga Lima 😄
+## Me chamo Isac Braga Lima
 
 **Olá esse é o meu gitHub!⚡**
 
 SOBRE MIM👯
-- Atualmente curso ADS (Análise e Desenvolvimento de Sistemas) no CEUB
+- Estudante de Análise e desenvolvimento de sistema na UNICEUB
 - Tenho 19 anos
-- Sonho em trabalhar na área de front-end
-- Tenho diploma de fluência na língua inglesa  
+- Sonho em ser engenheiro de software/desenvolvedor
 
 ### 🤖 Linguagens 
 <div style="display: inline_block"><br>
