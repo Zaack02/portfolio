@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu repositório de portfólio! Aqui você encontrará projetos 
 
 ## 👨‍💻 Projetos Acadêmicos
 
-- academicos/academicos/projeto-js-inicial/script.js
+[Projeto JavaScript Inicial](./academicos/academicos/projeto-js-inicial/script.js)
 ## 💡 Projetos Pessoais
 
 - (Ainda em desenvolvimento)
