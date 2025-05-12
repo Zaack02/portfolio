@@ -1,4 +1,4 @@
-// project-js-initial
+// greeting.js
 // Author: Isac Braga Lima
 
 // This script prints a customized greeting to the console
