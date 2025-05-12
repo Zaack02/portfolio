@@ -6,6 +6,13 @@
 - Estudante de Análise e desenvolvimento de sistema na UNICEUB
 - Tenho 19 anos
 - Sonho em ser engenheiro de software/desenvolvedor
+- ## Códigos Acadêmicos
+
+- [Saudação (greeting.js)](academicos/greeting.js)
+- [Calculadora (calculator.js)](academicos/calculator.js)
+- [Conversor (converter.js)](academicos/converter.js)
+- [Utilitários de String (stringUtils.js)](academicos/stringUtils.js)
+
 
 ### 🤖 Linguagens 
 <div style="display: inline_block"><br>
@@ -30,9 +37,4 @@
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Zaack02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=2103" />
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaack02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=2103" />
 </p>
-## Códigos Acadêmicos
 
-- [Saudação (greeting.js)](academicos/greeting.js)
-- [Calculadora (calculator.js)](academicos/calculator.js)
-- [Conversor (converter.js)](academicos/converter.js)
-- [Utilitários de String (stringUtils.js)](academicos/stringUtils.js)
