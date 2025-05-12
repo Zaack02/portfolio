@@ -1,7 +1,7 @@
 # Portfólio de Projetos - Isac Braga Lima
 
 Bem-vindo(a) ao meu repositório de portfólio! Aqui você encontrará projetos desenvolvidos durante minha jornada acadêmica e pessoal, com foco em boas práticas de versionamento, organização e documentação.
-
+Estudante de Análise e desenvolvimento de sistema 👨‍💻
 ---
 
 ## 👨‍💻 Projetos Acadêmicos
