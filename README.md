@@ -8,10 +8,10 @@
 - Sonho em ser engenheiro de software/desenvolvedor
 - ## Códigos Acadêmicos
 
-- [Saudação (greeting.js)](academicos/greeting.js)
-- [Calculadora (calculator.js)](academicos/calculator.js)
-- [Conversor (converter.js)](academicos/converter.js)
-- [Utilitários de String (stringUtils.js)](academicos/stringUtils.js)
+- [Saudação (greeting.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/greeting.js)
+- [Calculadora (calculator.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/calculator.js)
+- [Conversor (converter.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/converter.js)
+- [Utilitários de String (stringUtils.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/stringUtils.js)
 
 
 ### 🤖 Linguagens 
