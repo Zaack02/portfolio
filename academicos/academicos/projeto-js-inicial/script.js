@@ -1,24 +1,15 @@
 // projeto-js-inicial
 // Autor: Isac Braga Lima
-// Script com suporte a saudação em português e inglês
+// Este script imprime uma saudação personalizada no console
 
 /**
- * Retorna uma saudação personalizada em português ou inglês.
- * @param {string} nome - Nome da pessoa.
- * @param {string} idioma - 'pt' para português, 'en' para inglês.
+ * Função que retorna uma saudação em português.
+ * @param {string} nome - Nome da pessoa a ser saudada.
+ * @returns {string} Mensagem de saudação.
  */
-function saudacao(nome, idioma = "pt") {
-  if (idioma === "pt") {
-    return `Olá, ${nome}! Seja bem-vindo ao meu repositório de portfólio.`;
-  } else if (idioma === "en") {
-    return `Hello, ${nome}! Welcome to my portfolio repository.`;
-  } else {
-    return `Idioma não suportado.`;
-  }
+function saudacao(nome) {
+  return `Olá, ${nome}! Seja bem-vindo ao meu repositório de portfólio.`;
 }
 
-// Testes
-console.log(saudacao("Visitante", "pt"));
-console.log(saudacao("Visitor", "en"));
-console.log(saudacao("Usuário", "es")); // idioma não suportado
-feat: adiciona suporte a múltiplos idiomas
+// Executa a saudação com o nome "Visitante"
+console.log(saudacao("Visitante"));
