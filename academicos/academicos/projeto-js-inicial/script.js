@@ -1,15 +1,12 @@
-// projeto-js-inicial
-// Autor: Isac Braga Lima
-// Este script imprime uma saudação personalizada no console
-
-/**
- * Função que retorna uma saudação em português.
- * @param {string} nome - Nome da pessoa a ser saudada.
- * @returns {string} Mensagem de saudação.
- */
-function saudacao(nome) {
-  return `Olá, ${nome}! Seja bem-vindo ao meu repositório de portfólio.`;
+function saudacao(nome, idioma = "pt") {
+  if (idioma === "pt") {
+    return `Olá, ${nome}! Seja bem-vindo ao meu repositório de portfólio.`;
+  } else if (idioma === "en") {
+    return `Hello, ${nome}! Welcome to my portfolio repository.`;
+  } else {
+    return `Idioma não suportado.`;
+  }
 }
 
-// Executa a saudação com o nome "Visitante"
-console.log(saudacao("Visitante"));
+console.log(saudacao("Visitante", "pt"));
+console.log(saudacao("Visitor", "en"));
